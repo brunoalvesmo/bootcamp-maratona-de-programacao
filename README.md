@@ -4,7 +4,7 @@ Repositório com os materiais do treinamento para a maratona de programação.
 
 A Maratona de Programação é um evento da Sociedade Brasileira de Computação que existe desde o ano de 1996. A Maratona nasceu das competições regionais classificatórias para as finais mundiais do concurso de programação, o International Collegiate Programming Contest, e é parte da regional sulamericana do concurso. 
 
-Site oficial da Maratona  de programação: [maratona.sbc.org.br](Site%20oficial%20da%20Maratona%20%20de%20programa%C3%A7%C3%A3o:%20https://maratona.sbc.org.br/)
+Site oficial da Maratona  de programação: [maratona.sbc.org.br](https://maratona.sbc.org.br/)
 
 
 ### Resolução de desafios por categoria: 
