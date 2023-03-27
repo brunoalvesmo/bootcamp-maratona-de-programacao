@@ -6,6 +6,7 @@ A Maratona de Programação é um evento da Sociedade Brasileira de Computação
 
 Site oficial da Maratona  de programação: [maratona.sbc.org.br](https://maratona.sbc.org.br/)
 
+Link da plataforma de desafios utilizada: [Beecrowd.com.br](https://www.beecrowd.com.br/)
 
 ### Resolução de desafios por categoria: 
 
