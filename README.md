@@ -21,6 +21,5 @@ Link da plataforma de desafios utilizada: [Beecrowd.com.br](https://www.beecrowd
 
 ### Coordenadores do projeto
 
-[Bruno Alves Moreira](mailto:bruno.moreira@prof.unibalsas.edu.br)
-
-[Jadson José Monteiro Oliveira](mailto:jadson.oliveira@prof.unibalsas.edu.br)
+Bruno Alves Moreira
+Jadson José Monteiro Oliveira
