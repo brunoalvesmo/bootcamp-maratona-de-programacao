@@ -19,5 +19,6 @@ Link da plataforma de desafios utilizada: [Beecrowd.com.br](https://www.beecrowd
  7. [Grafos](https://github.com/brunoalvesmo/bootcamp-maratona-de-programacao/tree/main/resolucoes/grafos) Flood Fill, MST, SSSP, DAG, Fluxo Máximo, Árvores... 
  8. [Geometria Computacional](https://github.com/brunoalvesmo/bootcamp-maratona-de-programacao/tree/main/resolucoes/geometria-computacional) Pontos e Linhas, Polígonos...
 
-
+### 
+ 
  ![Maratona de Programação](https://github.com/brunoalvesmo/bootcamp-maratona-de-programacao/blob/main/assets/images/footer.png)
