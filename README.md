@@ -9,8 +9,8 @@ Site oficial da Maratona  de programação: [maratona.sbc.org.br](Site%20oficial
 
 ### Resolução de desafios por categoria: 
 
- 1. Iniciante 
- 2. Ad-Hoc 
+ 1. [Iniciante](https://github.com/brunoalvesmo/bootcamp-maratona-de-programacao/tree/main/resolucoes/iniciante) 
+ 2. [Ad-Hoc](https://github.com/brunoalvesmo/bootcamp-maratona-de-programacao/tree/main/resolucoes/ad-hoc) 
  3. Strings 
  4. Bibliotecas e Estruturas 
  5. Matemática
