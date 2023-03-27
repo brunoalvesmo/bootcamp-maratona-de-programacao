@@ -12,9 +12,9 @@ Link da plataforma de desafios utilizada: [Beecrowd.com.br](https://www.beecrowd
 
  1. [Iniciante](https://github.com/brunoalvesmo/bootcamp-maratona-de-programacao/tree/main/resolucoes/iniciante) 
  2. [Ad-Hoc](https://github.com/brunoalvesmo/bootcamp-maratona-de-programacao/tree/main/resolucoes/ad-hoc) 
- 3. Strings 
- 4. Bibliotecas e Estruturas 
- 5. Matemática
- 6. Paradigmas 
- 7. Grafos 
- 8. Geometria Computacional
+ 3. [Strings](https://github.com/brunoalvesmo/bootcamp-maratona-de-programacao/tree/main/resolucoes/strings)  
+ 4. [Estruturas e Bibliotecas](https://github.com/brunoalvesmo/bootcamp-maratona-de-programacao/tree/main/resolucoes/estruturas-e-bibliotecas)  
+ 5. [Matemática](https://github.com/brunoalvesmo/bootcamp-maratona-de-programacao/tree/main/resolucoes/matematica) 
+ 6. [Paradigmas](https://github.com/brunoalvesmo/bootcamp-maratona-de-programacao/tree/main/resolucoes/paradigmas)  
+ 7. [Grafos](https://github.com/brunoalvesmo/bootcamp-maratona-de-programacao/tree/main/resolucoes/grafos)  
+ 8. [Geometria Computacional](https://github.com/brunoalvesmo/bootcamp-maratona-de-programacao/tree/main/resolucoes/geometrica-computacional) 
