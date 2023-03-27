@@ -1,4 +1,5 @@
-![Maratona de Programação](https://github.com/brunoalvesmo/bootcamp-maratona-de-programacao/blob/main/assets/images/paradigmas.png)
+### Paradigmas 
+Programação Dinâmica, Busca Binária, Gulosos, Backtracking...
 
 
  

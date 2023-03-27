@@ -1,4 +1,5 @@
-![Maratona de Programação](https://github.com/brunoalvesmo/bootcamp-maratona-de-programacao/blob/main/assets/images/iniciante.png)
+### Iniciante
+Problemas básicos para quem está iniciando na programação...
 
 
  
