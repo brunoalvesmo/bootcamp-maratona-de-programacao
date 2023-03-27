@@ -21,5 +21,5 @@ Link da plataforma de desafios utilizada: [Beecrowd.com.br](https://www.beecrowd
 
 ### Coordenadores do projeto
 
-Bruno Alves Moreira
-Jadson José Monteiro Oliveira
+-Bruno Alves Moreira
+-Jadson José Monteiro Oliveira
