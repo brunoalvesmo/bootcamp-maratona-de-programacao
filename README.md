@@ -34,8 +34,8 @@ Contribuições de todos os tipos são bem vindas neste projeto! Fique a vontade
 
 ### Coordenadores do projeto 
 
-Bruno Alves Moreira [@octokatherine](https://www.github.com/brunoalvesmo) </br>
-Jadson José Monteiro Oliveira [@octokatherine](https://github.com/jadsonjjmo)
+Bruno Alves Moreira [@brunoalvesmo](https://www.github.com/brunoalvesmo) </br>
+Jadson José Monteiro Oliveira [@jadsonjjmo](https://github.com/jadsonjjmo)
 
 ### Licença
 
