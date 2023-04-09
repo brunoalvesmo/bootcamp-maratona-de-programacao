@@ -34,9 +34,9 @@ Contribuições de todos os tipos são bem vindas neste projeto! Fique a vontade
 
 ### Coordenadores do projeto 
 
-Bruno Alves Moreira
-
-Jadson José Monteiro Oliveira
+Bruno Alves Moreira [@octokatherine](https://www.github.com/brunoalvesmo)
+Jadson José Monteiro Oliveira [@octokatherine](https://github.com/jadsonjjmo)
 
 ### Licença
-Este projeto está licenciado sob a licença MIT.
+
+[MIT](https://choosealicense.com/licenses/mit/)
